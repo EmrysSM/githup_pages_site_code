@@ -24,7 +24,7 @@ googleAnalytics = ""
 	description = "Software Developer interested in solving new problems every day."
 
 	# The path must be relative to the static folder
-	favicon = "favicon.ico"
+	favicon = "compIcon.png"
 
 
 	# Navigation
@@ -58,9 +58,9 @@ googleAnalytics = ""
 		headline = ""
 
         [[params.services.list]]
-            icon = "fa-diamond"
-            title = "Sturdy Templates"
-            description = "Our templates are updated regularly so they don't break."
+            icon = "fa-server"
+            title = "AWS"
+            description = "Stand up and maintain AWS services."
 
         [[params.services.list]]
 			icon = "fa-paper-plane"
