@@ -1,0 +1,6 @@
+[submodule "emryssm/emryssm/themes/dimension"]
+	path = emryssm/emryssm/themes/dimension
+	url = https://github.com/sethmacleod/dimension.git
+[submodule "emryssm/themes/dimension"]
+	path = emryssm/themes/dimension
+	url = https://github.com/sethmacleod/dimension.git
