@@ -4,3 +4,7 @@
 [submodule "emryssm/themes/dimension"]
 	path = emryssm/themes/dimension
 	url = https://github.com/sethmacleod/dimension.git
+[submodule "emryssm/public"]
+	path = emryssm/public
+	url = https://github.com/EmrysSM/emryssm.github.io.git
+	branch = master
