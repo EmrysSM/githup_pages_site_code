@@ -27,9 +27,19 @@ disableKinds=["RSS"]
 #   link = "#"
 
 [[params.social]]
+  medium = "gmail"
+  icon = "envelope"
+  link = "mailto:emrys.sm@gmail.com"
+
+[[params.social]]
+  medium = "linkedin"
+  icon = "linkedin-square"
+  link = "https://www.linkedin.com/in/emrysscottmurrell/"
+
+[[params.social]]
   medium = "github"
   icon = "github"
-  link = "github.com/EmrysSM"
+  link = "https://www.github.com/EmrysSM"
 
 [languages]
 [languages.en]

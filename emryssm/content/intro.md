@@ -4,7 +4,5 @@ weight = 10
 draft = false
 +++
 
-{{< figure class="image main" src="/images/pic01.jpg" >}}
-By the way, check out my [awesome work](#work).
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+<!-- {{< figure class="image main" src="/images/pic01.jpg" >}} -->
+My name is Emrys, and I love working with, and learning new things. I enjoy being active, whether it's playing soccer, enjoying nature, or hitting the gym. I always make room to take a moment to relax and enjoy life. I am a software developer with over seven years of combined experience in the tech industry. I enjoy leveraging my breadth of tech knowledge, communication capabilities, and leadership. I work with HNTB as a software developer where I work on various GIS, website, and web application projects.
